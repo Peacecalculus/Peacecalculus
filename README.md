@@ -18,3 +18,8 @@ Aside from coding high-performance interfaces, I enjoy creating "offline-first" 
 💁‍♀️ Pronouns: She/Her
 
 ⚡ Fun fact: I approach every coding challenge like a mathematical proof—if the logic isn't elegant, the work isn't finished! 😂
+
+
+<!--- Github stats from: https://github.com/anuraghazra/github-readme-stats--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peacecalculus)](https://github.com/anuraghazra/github-readme-stats)
+
