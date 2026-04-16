@@ -1,51 +1,20 @@
-🚀 Ezekiel Emem Peace
 
-Software Engineer | React & TypeScript Enthusiast | Digital Solutions Specialist
-👋 Professional Profile
-I am an Aspiring Software Engineer with a technical focus on building scalable, type-safe web applications. My background is rooted in Mathematics and Computer Science, which allows me to approach frontend engineering with an analytical, solution-oriented mindset.
+Hi there 👋 I am Ezekiel Emem Peace
 
-I am a strong advocate for "offline-first" architecture and lightweight, high-performance code. My goal is to bridge the gap between complex frontend engineering and high-growth digital strategy.
+________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Technical Stack
-Core: React (v19), TypeScript (Static Typing & Interfaces), JavaScript (ES6+).
+I am a Software Engineer 💻, Mathematics Educator 📐, and Digital Solutions Specialist who focuses on building scalable, type-safe web applications using React and TypeScript.
 
-State & Routing: TanStack Router, React Router, Hooks.
+Aside from coding high-performance interfaces, I enjoy creating "offline-first" digital tools 🛠️, leading The Joyful Genius Lab 🧪, and bridging the gap between foundational logic and modern frontend engineering. Some of my technical repositories are available here.
 
-Architecture: Responsive Design, Performance Optimization, "Offline-first" design.
+🧐 I’m currently learning: AI-Assisted Coding and Advanced Technical SEO.
 
-Tools: Vite, Git/GitHub, npm, Technical SEO.
+🤝 I’m looking for: Junior Software Engineering roles, Internships, and Frontend development gigs.
 
-📈 Featured Achievements
-Planet Explorer (React 19 & TS): Engineered type-safe components utilizing NASA-sourced data, ensuring data integrity through strict TypeScript interfaces.
+💬 Ask me about: React (v19), TypeScript, TanStack Router, and STEM Education.
 
-Global Academic Excellence: Maintained a 98% examination average across technical software engineering modules.
+📬 How to reach me: Send me a message on WhatsApp or email me here.
 
-Joyful Genius Lab: Spearheading a virtual network for STEM mastery, integrating technical SEO and digital solutions to scale educational impact.
+💁‍♀️ Pronouns: She/Her
 
-🌱 Current Initiatives
-Currently Learning: Advanced AI-Assisted Coding (Andela) and Social Media Advertising.
-
-💞️ Collaboration: Actively seeking to contribute to Open Source projects, Fintech, or EdTech innovations.
-
-📫 Looking for: Junior Software Engineering roles and Internship opportunities.
-
-⚡ Quick Facts
-😄 Pronouns: She/Her
-
-⚡ Fun Fact: I approach coding like a mathematical proof—if the logic isn't elegant and simplified, the work isn't finished.
-
-🌍 Location: Lagos, Nigeria.
-
-📫 Let's Connect
-Ready to build something efficient? Let’s talk!
-
-WhatsApp: +234 706 673 6903
-
-LinkedIn: linkedin.com/in/ezekielemempeace
-
-Portfolio: GitHub Repositories
-
-<!---
-Peacecalculus/Peacecalculus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I approach every coding challenge like a mathematical proof—if the logic isn't elegant, the work isn't finished! 😂
