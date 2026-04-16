@@ -13,7 +13,7 @@ Aside from coding high-performance interfaces, I enjoy creating "offline-first" 
 
 💬 Ask me about: React (v19), TypeScript, TanStack Router, and STEM Education.
 
-📬 How to reach me: Send me a message on WhatsApp or email me here.
+📬 How to reach me: Send me a message on [WhatsApp]https://wa.me/qr/AWKA3WDXZKLWD1 or [Email]peaceezekiel24@gmail.com me here.
 
 💁‍♀️ Pronouns: She/Her
 
