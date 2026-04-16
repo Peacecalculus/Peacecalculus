@@ -1,23 +1,24 @@
 
 Hi there 👋 I am Ezekiel Emem Peace
 
-________________________________________________________________________________________________________________________________________________________________________________
+I am a Software Engineer & UI/UX Designer 💻🎨, Mathematics Educator 📐, and Digital Marketing Specialist who focuses on building scalable, type-safe web applications using React and TypeScript.
 
-I am a Software Engineer 💻, Mathematics Educator 📐, and Digital Solutions Specialist who focuses on building scalable, type-safe web applications using React and TypeScript.
-
-Aside from coding high-performance interfaces, I enjoy creating "offline-first" digital tools 🛠️, leading The Joyful Genius Lab 🧪, and bridging the gap between foundational logic and modern frontend engineering. Some of my technical repositories are available here.
+Aside from coding high-performance interfaces, I enjoy crafting intuitive user experiences, managing Social Media & Advertising strategies 📈, and leading The Joyful Genius Lab 🧪. Some of my technical repositories are available here.
 
 🧐 I’m currently learning: AI-Assisted Coding and Advanced Technical SEO.
 
-🤝 I’m looking for: Junior Software Engineering roles, Internships, and Frontend development gigs.
+🤝 I’m looking for: Junior Software Engineering roles, UI/UX Design opportunities, and Digital Marketing gigs.
 
-💬 Ask me about: React (v19), TypeScript, TanStack Router, and STEM Education.
+💬 Ask me about: React (v19), TypeScript, Social Media Advertising, and UI/UX Principles.
 
 📬 How to reach me: Send me a message on [WhatsApp](https://wa.me/qr/AWKA3WDXZKLWD1) or [Email](peaceezekiel24@gmail.com) me here.
 
 💁‍♀️ Pronouns: She/Her
 
-⚡ Fun fact: I approach every coding challenge like a mathematical proof—if the logic isn't elegant, the work isn't finished! 😂
+⚡ Fun fact: I approach every design and code challenge like a mathematical proof—if the logic isn't elegant, the work isn't finished! 😂
+
+______________________________________________________________________________________________________________________________________________________________________________
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
